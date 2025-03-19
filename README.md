@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # About Me
-I am a third year Ph.D. Candidate in Physics in the [McWilliams Center for Cosmology](https://www.cmu.edu/cosmology/) at Carnegie Mellon University. 
+I am a fourth year Ph.D. Candidate in Physics in the [McWilliams Center for Cosmology](https://www.cmu.edu/cosmology/) at Carnegie Mellon University. 
 
 I work on cosmology using imaging surveys, weak gravitational lensing, and statistical inference. I am a member of the [LSST Dark Energy Science Collaboration](https://lsstdesc.org/) focusing on shear estimation and cosmic shear. 
 
